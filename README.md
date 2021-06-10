@@ -2,14 +2,13 @@
 
 MATLAB R2016b required
 
-The script illustrates the paper about COVID-19 outbreak spread model
-Authors: Kastalskiy, I. A., Pankratova, E. V., Mirkes, E. M.,
-         Kazantsev, V. B., and Gorban, A. N.
+The script illustrates the paper about COVID-19 outbreak spread model by authors: Kastalskiy, I. A., Pankratova, E. V., Mirkes, E. M., Kazantsev, V. B., and Gorban, A. N.
 
 A model of the COVID-19 pandemic is proposed, combining the dynamics of social stress described by the tools of sociophysics with classical epidemic models.
 The model parameters have been successfully fitted to best match the statistical observations of epidemics in different countries of the world.
 
-Please note that depending on the ranges for parameters (q,a,K2,Io), the fit result may differ slightly from that in the paper. Use the exact ranges for each country individually. Also, the result depends on the change in population.
+Please note that depending on the ranges for parameters (q,a,K2,Io), the fit result may differ slightly from that in the paper.
+Use the exact ranges for each country individually. Also, the result depends on the change in population.
 
 Innokentiy Kastalskiy, kastalskiy@neuro.nnov.ru
 Copyright 2021
