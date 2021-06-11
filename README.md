@@ -72,9 +72,15 @@ To get the exact result, as in **Table 1** in the paper use precise ranges and d
 * **Alexander N. Gorban** - *Model formulation*
 
 
+
 ## Cite
 
 **Social stress drives the multi-wave dynamics of COVID-19 outbreaks**
 
 Innokentiy A. Kastalskiy, Evgeniya V. Pankratova, Evgeny M. Mirkes, Victor B. Kazantsev, and Alexander N. Gorban
 (2021)
+
+
+## Acknowledgements
+
+We acknowledge Russian Foundation for Basic Research (project No. 20-04-60078).
