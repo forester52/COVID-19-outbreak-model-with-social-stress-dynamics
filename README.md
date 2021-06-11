@@ -75,5 +75,7 @@ Io - the initial fraction of infected people in the population
 
 ## Cite
 
-Social stress drives the multi-wave dynamics of COVID-19 outbreaks
+**Social stress drives the multi-wave dynamics of COVID-19 outbreaks**
+
 Innokentiy A. Kastalskiy, Evgeniya V. Pankratova, Evgeny M. Mirkes, Victor B. Kazantsev, and Alexander N. Gorban
+(2021)
