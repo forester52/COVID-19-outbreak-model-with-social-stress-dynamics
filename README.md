@@ -11,7 +11,7 @@ Requires MATLAB R2016b or later
 
 ## Getting Started
 
-Before runing simulations download all *.m* files from this repository and file *owid-covid-data.xlsx* with most current COVID-19 data.
+Before runing simulations download all *.m* files from this repository and file '*owid-covid-data.xlsx*' with most current COVID-19 data.
 
 Preferred use of the COVID-19 data file format, as in the project "Our World in Data": https://ourworldindata.org/coronavirus
 
@@ -56,10 +56,10 @@ Io - the initial fraction of infected people in the population
 
 ## Run
 
-To run demo simulation execute *SIR_with_social_stress.m* in MATLAB environment.
+To run demo simulation execute script '*SIR_with_social_stress.m*' in MATLAB environment.
 
 Please note that depending on the ranges for parameters (q,a,K2,Io), the fit result may differ slightly from that in the paper.
-To get the exact result, as in **Table 1** in the paper use precise ranges and desired precisions for each country individually. Also, the result is influenced by possible data updates in file *owid-covid-data.xlsx* caused by changes in the population of countries over time.
+To get the exact result, as in **Table 1** in the paper use precise ranges and desired precisions for each country individually. Also, the result is influenced by possible data updates in file '*owid-covid-data.xlsx*' caused by changes in the population of countries over time.
 
 
 
