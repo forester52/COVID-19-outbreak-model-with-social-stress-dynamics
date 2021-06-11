@@ -1,19 +1,22 @@
-# SIR model for coronavirus outbreak dynamics driven by social stress
-
-MATLAB R2016b required
-
-The script illustrates the paper about COVID-19 outbreak spread model by authors: Kastalskiy, I. A., Pankratova, E. V., Mirkes, E. M., Kazantsev, V. B., and Gorban, A. N.
+## SIR model for coronavirus outbreak dynamics driven by social stress
 
 A model of the COVID-19 pandemic is proposed, combining the dynamics of social stress described by the tools of sociophysics with classical epidemic models.
 The model parameters have been successfully fitted to best match the statistical observations of epidemics in different countries of the world.
 
+# Description of the script
+
+Requires MATLAB R2016b or later
+
+The script illustrates the paper about COVID-19 outbreak spread model prepared by authors: Kastalskiy, I. A., Pankratova, E. V., Mirkes, E. M., Kazantsev, V. B., and Gorban, A. N.
+
+To run demo simulation please download and execute *SIR_with_social_stress.m* in MATLAB environment.
+
 Please note that depending on the ranges for parameters (q,a,K2,Io), the fit result may differ slightly from that in the paper.
-Use the exact ranges for each country individually. Also, the result depends on the change in population.
+To get the exact result, as in **Table 1** in the paper use precise ranges and desired precisions for each country individually. Also, the result is influenced by possible data updates in file *owid-covid-data.xlsx* caused by changes in the population of countries over time.
+
 
 Innokentiy Kastalskiy, kastalskiy@neuro.nnov.ru
 Copyright 2021
-
-
 
 # Loading COVID-19 data and selecting a country or territory
 
