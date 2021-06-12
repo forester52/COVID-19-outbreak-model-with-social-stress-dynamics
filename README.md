@@ -11,7 +11,7 @@ Requires MATLAB R2016b or later
 
 ## Getting Started
 
-Before runing simulations download all *.m* files from this repository and file '*owid-covid-data.xlsx*' with most current COVID-19 data.
+Before runing simulations download following files from this repository: '*SIR_with_social_stress.m*' (code) and '*owid-covid-data.xlsx*' (most current COVID-19 data).
 
 Preferred use of the COVID-19 data file format, as in the project "Our World in Data": https://ourworldindata.org/coronavirus
 
