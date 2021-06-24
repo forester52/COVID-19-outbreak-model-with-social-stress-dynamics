@@ -65,7 +65,7 @@ To get the exact result, as in **Table 1** in the paper use precise ranges and d
 
 ## Authors
 
-* **Innokentiy A. Kastalskiy** - *Model implementation, writing code* - [iakastalskiy](https://github.com/iakastalskiy)
+* **Innokentiy A. Kastalskiy** - *Model implementation, writing code* - [forester52](https://github.com/forester52)
 * **Evgeniya V. Pankratova** - *Model simulation*
 * **Evgeny M. Mirkes** - *Model formulation*
 * **Victor B. Kazantsev** - *Model simulation*
