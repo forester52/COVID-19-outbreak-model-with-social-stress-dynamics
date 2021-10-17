@@ -7,7 +7,7 @@ The script illustrates the paper about COVID-19 outbreak spread model prepared b
 
 Requires MATLAB R2016b
 
-(comment out the lines with "colororder" commands for MATLAB 2019a or earlier)
+(comment out the lines with "colororder" commands for MATLAB R2019a or earlier)
 
 
 
