@@ -83,4 +83,4 @@ Innokentiy A. Kastalskiy, Evgeniya V. Pankratova, Evgeny M. Mirkes, Victor B. Ka
 
 ## Acknowledgements
 
-We acknowledge Russian Foundation for Basic Research (project No. 20-04-60078).
+We acknowledge Russian Foundation for Basic Research (project No. 20-04-60078) and the Ministry of Science and Higher Education of the Russian Federation (project No. 075-15-2021-634).
