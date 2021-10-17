@@ -5,7 +5,8 @@ The model parameters have been successfully fitted to best match the statistical
 
 The script illustrates the paper about COVID-19 outbreak spread model prepared by authors: Kastalskiy, I. A., Pankratova, E. V., Mirkes, E. M., Kazantsev, V. B., and Gorban, A. N.
 
-Requires MATLAB R2016b or later
+Requires MATLAB R2016b
+(comment out the lines with "colororder" commands for MATLAB 2019a or earlier)
 
 
 
