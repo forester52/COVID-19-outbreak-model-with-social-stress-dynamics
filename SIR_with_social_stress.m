@@ -1,7 +1,7 @@
 %% SIR model for coronavirus outbreak dynamics driven by social stress
 % 
 % Requires MATLAB R2016b
-% (comment out the lines with "colororder" commands for MATLAB 2019a or earlier)
+% (comment out the lines with "colororder" commands for MATLAB R2019a or earlier)
 % 
 % The script illustrates the paper about COVID-19 outbreak spread model
 % Authors: Kastalskiy, I. A., Pankratova, E. V., Mirkes, E. M.,
