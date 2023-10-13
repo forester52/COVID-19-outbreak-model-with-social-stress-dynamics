@@ -61,7 +61,7 @@ Io - the initial fraction of infected people in the population
 To run demo simulation execute script '*SIR_with_social_stress.m*' in MATLAB environment.
 
 Please note that depending on the ranges for parameters (q,a,K2,Io), the fit result may differ slightly from that in the paper.
-To get the exact result, as in **Table 1** in the paper use precise ranges and desired precisions for each country individually. Also, the result is influenced by possible data updates in file '*owid-covid-data.xlsx*' caused by changes in the population of countries over time.
+To get the exact result, as in **Table 1** in the paper use precise ranges and desired precisions for each country individually. Also, the result is influenced by possible data updates in file '*owid-covid-data.xlsx*' caused by changes in the population of countries over time or retrospective data corrections.
 
 
 
@@ -77,7 +77,7 @@ To get the exact result, as in **Table 1** in the paper use precise ranges and d
 
 ## References
 
-Kastalskiy, I.A., Pankratova, E.V., Mirkes, E.M. et al. Social stress drives the multi-wave dynamics of COVID-19 outbreaks. Sci Rep 11, 22497 (2021). [https://doi.org/10.1038/s41598-021-01317-z]
+Kastalskiy, I.A., Pankratova, E.V., Mirkes, E.M., Kazantsev, V.B., and Gorban, A.N. Social stress drives the multi-wave dynamics of COVID-19 outbreaks. Sci Rep 11, 22497 (2021). [https://doi.org/10.1038/s41598-021-01317-z]
 
 
 ## Acknowledgements
