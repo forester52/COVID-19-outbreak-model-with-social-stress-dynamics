@@ -75,12 +75,9 @@ To get the exact result, as in **Table 1** in the paper use precise ranges and d
 
 
 
-## Cite
+## References
 
-**Social stress drives the multi-wave dynamics of COVID-19 outbreaks**
-
-Innokentiy A. Kastalskiy, Evgeniya V. Pankratova, Evgeny M. Mirkes, Victor B. Kazantsev, and Alexander N. Gorban
-(2021)
+Kastalskiy, I.A., Pankratova, E.V., Mirkes, E.M. et al. Social stress drives the multi-wave dynamics of COVID-19 outbreaks. Sci Rep 11, 22497 (2021). [https://doi.org/10.1038/s41598-021-01317-z]
 
 
 ## Acknowledgements
